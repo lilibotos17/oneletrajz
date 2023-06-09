@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  color: rgb(44, 44, 77);
+  font-size: 45px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  color: rgb(44, 44, 77);
+  font-size: 35px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+h4 {
+  color: rgb(44, 44, 77);
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(155, 124, 155);
+}
+
+body {
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
